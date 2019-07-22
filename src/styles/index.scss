@@ -1,13 +1,23 @@
 @import "~bootstrap/scss/bootstrap.scss";
 
-/* 
+/*
 
     You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
+
+
+    ...Or you can use the import command to include
     other sylesheets into your bunde as well, e.j:
-    
+
     import 'relative/path/to/stylesheet.scss';
 
 */
+body{
+    // background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfJNjaQ4AGU18BV0d3Tdxsr28VX43sBLj_yerecFnorCcFIkEkAw");
+    // background-repeat: no-repeat;
+    // background-size: cover;
+    margin-top: 200px;
+    background-color: #23fcb0;
+}
+.secondsParent{
+    background-color: #def533;
+}
